@@ -5,6 +5,10 @@ For the given ‘Iris’ dataset, create the Decision Tree classifier and visual
 The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 Data can be found at [*Iris.csv*](/Iris.csv?raw=true)
 
+### Visualization of trained model
+
+<img src="/model.PNG" width="709" height="425">
+
 
 
 
